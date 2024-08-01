@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on (?).
-- 📫 How to reach me @LinnkedIn...
+- 📫 How to reach me [@LinnkedIn...](https://www.linkedin.com/in/kailopezvaz)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My first option for my studies at the university was computing but due to "interest conflicts" with my sis, I ended up studying and graduating from Advertising.
 
